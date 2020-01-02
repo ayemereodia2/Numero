@@ -2,7 +2,7 @@ import XCTest
 @testable import Numero
 
 class ConverterTests: XCTestCase {
-  var converter: Converter!
+  var converter:Converter!
 
   override func setUp() {
     super.setUp()
